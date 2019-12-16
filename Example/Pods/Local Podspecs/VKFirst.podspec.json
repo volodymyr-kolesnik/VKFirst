@@ -1,0 +1,22 @@
+{
+  "name": "VKFirst",
+  "version": "0.1.0",
+  "summary": "A short description of VKFirst.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/volodymyr-kolesnik/VKFirst",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "volodymyr-kolesnik": "volodymyr_kolesnik@epam.com"
+  },
+  "source": {
+    "git": "https://github.com/volodymyr-kolesnik/VKFirst.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "VKFirst/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_VKFirst_Example {
+  umbrella header "Pods-VKFirst_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
