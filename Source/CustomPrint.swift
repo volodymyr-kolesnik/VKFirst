@@ -1,3 +1,3 @@
 public func print() {
-    print("This is Framework #1")
+    print("Print Framework #1")
 }
