@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'VKFirst_Example' do
+  pod 'VKFirst', :path => '../'
+
+  target 'VKFirst_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
