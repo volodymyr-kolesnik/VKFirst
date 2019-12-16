@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'VKFirst'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of VKFirst.'
+  s.version          = '1.0.1'
+  s.summary          = 'Description of VKFirst.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -31,6 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '12.0'
 
   s.source_files = 'Source/*'
+  s.swift_versions = '4.2'
   
   # s.resource_bundles = {
   #   'VKFirst' => ['VKFirst/Assets/*.png']
